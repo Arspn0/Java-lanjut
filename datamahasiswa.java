@@ -43,7 +43,7 @@ class dataMahasiswa{
         System.out.println("Isi data anda dibawah ini!");
         data1.isi_data();
 
-        System.out.println(" ");
+        System.out.print(\n);
 
         System.out.println("Data anda :");
         data1.tampil_data();
